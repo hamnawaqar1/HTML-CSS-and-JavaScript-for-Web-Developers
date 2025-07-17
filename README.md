@@ -25,8 +25,8 @@ Each module's assignment is placed in its own folder:
 <h2>Viewing Submissions</h2>
 The assignments are deployed via GitHub Pages. You can view them using the following links:
 <ul>
-  <li>Module 2 Assignment --> https://hw-sparrow.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/module2-solution/</li>
-  <li>Module 3 Assignment --> https://hw-sparrow.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/module3-solution/</li>
-  <li>Module 4 Assignment --> https://hw-sparrow.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/module4-solution/</li>
-  <li>Module 5 Assignment --> https://hw-sparrow.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/module5-solution/</li>
+  <li>Module 2 Assignment --> https://hamnawaqar1.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/module2-solution/</li>
+  <li>Module 3 Assignment --> https://hamnawaqar1.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/module3-solution/</li>
+  <li>Module 4 Assignment --> https://hamnawaqar1.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/module4-solution/</li>
+  <li>Module 5 Assignment --> https://hamnawaqar1.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/module5-solution/</li>
 </ul>
